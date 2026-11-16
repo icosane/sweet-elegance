@@ -2,7 +2,7 @@
 English translation patch for Nintendo Switch version of `Sugar*Style`. Mostly based on the PC version.
 
 # Important Notes 
-* Switch version contains new routes. They were either AI or machine-translated (depends on route, there were some issues).
+* Switch version contains new routes. They were AI translated.
 * Only the script is replaced. All the UI and menus stay in JP.
 
 # Installation
